@@ -7,7 +7,7 @@
 
 - Ve **javascript,Go öğreniyorum**
 
-- Nadiren [randward.online websitesinde yazılar yazıyorum.](randward.online websitesinde yazılar yazıyorum.)
+- Nadiren randward.online websitesinde yazılar yazıyorum.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
