@@ -1,11 +1,11 @@
-<h1 align="center">Merhaba ben Ege</h1>
+<h1 align="center">Merhaba Ben Ege</h1>
 <h3 align="center">Tutkulu bir software developerim</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randwardatake&label=Profile%20views&color=0e75b6&style=flat" alt="randwardatake" /> </p>
 
 - Şuanda **terminusplay.com üzerinde çalışıyorum**
 
-- ve **javascript,Go öğreniyorum**
+- Ve **javascript,Go öğreniyorum**
 
 - Nadiren [randward.online websitesinde yazılar yazıyorum.](randward.online websitesinde yazılar yazıyorum.)
 
